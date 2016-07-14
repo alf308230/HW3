@@ -1,0 +1,51 @@
+body {
+    color: black;
+}
+
+.開出順序,
+.大小順序,
+.特別號 {
+    font-weight: 600;
+    font-family: 微軟正黑體;
+    font-weight: bolder
+}
+
+strong {
+    color: red
+}
+
+p {
+    color: red
+}
+
+th {
+    text-align: left;
+    font-family: 微軟正黑體;
+    font-weight: 900;
+}
+
+.circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 23px;
+    font-family: Arial;
+    font-weight: 900;
+    color: #000;
+    line-height: 50px;
+    text-align: center;
+    background: #ffce00;
+}
+
+.circle02 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 23px;
+    font-family: Arial;
+    font-weight: 900;
+    color: #ffffff;
+    line-height: 50px;
+    text-align: center;
+    background: #ff0000;
+}
